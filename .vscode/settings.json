@@ -1,4 +1,4 @@
 {
-    "github.gitAuthentication": false,
+    "github.gitAuthentication": true,
     "github.branchProtection": false
 }
